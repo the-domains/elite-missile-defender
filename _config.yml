@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.4654579
+  lightness: 0.9850321
+  brandStrength: 0.4979867
+  brandColors:
+    - '#738B2B'
+    - '#494949'
+    - '#D0E268'
+    - '#F99A42'
+    - '#0D0D0B'
+  rhythmicContrast: 0.9922911
+typography_spectrum: 0.5633727
+name: 'Elite: Missile Defender'
